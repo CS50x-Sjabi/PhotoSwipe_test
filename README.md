@@ -2,7 +2,7 @@
 
 
 
-PhotoSwipe v6 — JavaScript image gallery and lightbox
+PhotoSwipe v7 — JavaScript image gallery and lightbox
 
 **[Demo](https://photoswipe.com)** | **[Documentation](https://photoswipe.com/getting-started/)**
 
