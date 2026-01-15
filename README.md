@@ -1,6 +1,6 @@
 **FEEDBACK NEEDED** I am developing the new version - PhotoSwipe v6, please [read about upcoming changes and leave feedback](https://github.com/dimsemenov/PhotoSwipe/discussions/2170).
 
-
+ 
 
 PhotoSwipe v7 — JavaScript image gallery and lightbox
 
